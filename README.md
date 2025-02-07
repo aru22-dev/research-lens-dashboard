@@ -55,5 +55,8 @@ The project includes **five dashboards** that provide different analytical persp
 2. Download the project files and open any dashboard, example: `Dashboard 4.twbx` in Tableau.  
 3. Explore the visualizations using interactive filters.  
 
+## 📸 **Example View** 
+<img width="1159" alt="Screenshot 2025-02-07 at 4 56 52 PM" src="https://github.com/user-attachments/assets/55bda31a-9526-4027-82e2-f4c304b0d8d6" />
+
 ## 📜 License
 This project is for academic and research purposes. Feel free to explore and extend it for your own insights!  
