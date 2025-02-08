@@ -1,49 +1,35 @@
-# 📊 Research Analytics Dashboard
+# 📊 Research Lens Dashboard
 
-🚀 **An interactive, dashboard providing insights into the research and innovation landscape through grant funding, academic publications, and patents.**  
+🚀 **An interactive Tableau dashboard analyzing research funding, patents, and demographic trends to uncover key insights in academia and innovation.**  
 
 ## 📌 Overview
-This project presents a comprehensive **Tableau dashboard** that visualizes research funding trends, institutional performance, and demographic insights related to NIH/NSF grants, patents, and academic publications. The dashboard empowers policymakers, academic institutions, and funding agencies with actionable data for informed decision-making.
+This dashboard integrates NIH and NSF grants data, USPTO patents, and demographic insights to provide a comprehensive view of research funding, institutional impact, and innovation patterns.
 
 ## 🎯 Key Features
-✅ Grant distribution across institutions & career stages  
-✅ Institutional & geographic research trends  
-✅ Diversity analysis (gender & ethnicity) of researchers  
-✅ Patent filing patterns & innovation metrics  
-✅ Interactive filters for deep exploration 
+✅ Merges funding data with patent records to explore research impact  
+✅ Identifies top-performing universities and research hubs  
+✅ Examines age, gender, and ethnicity trends in research funding  
+✅ Analyzes how career stages impact funding success  
+✅ Drill down into specific institutions, regions, and career stages  
 
 ## 📌 Data Sources
 The dashboard is built using the **Author-ity 2009 dataset**, which integrates multiple data sources:
 - 📄 **NIH/NSF Grant, Patent & Publication Data:** [Dataset Link](https://databank.illinois.edu/datasets/IDB-4370459)  
 - 📄 **Ethnic & Gender Predictions:** [Dataset Link](https://databank.illinois.edu/datasets/IDB-9087546)   
 
-## 📊 Key Insights
-The project includes **five dashboards** that provide different analytical perspectives:
+## 🔍 **Key Insights from the Dashboard**  
 
-### 1️⃣ **Grant Funding & Institutional Performance**
-   - 📌 Institutions ranked by number of grants awarded.  
-   - 📌 Success probability of grants across career stages.  
-   - 📌 Trends in funding distribution by year and region.  
+📌 **Age & Funding Trends**  
+- Younger researchers (ages **20-30**) consistently secure the highest number of awards.  
+- **Early-Career** and **Mid-Career** researchers show the highest grant success probabilities.  
 
-### 2️⃣ **Patent Analysis & Inventor Demographics**
-   - 📌 Breakdown of patent filings across time.  
-   - 📌 Diversity metrics (gender & ethnicity) of inventors.  
-   - 📌 Top inventors by patent count.  
+📌 **Geographic Distribution**  
+- **New York, Cambridge, and La Jolla** are leading research hubs with the most grant achievements.  
+- Funding is highly concentrated in **California, New York, and Massachusetts**, making them top-performing states.  
 
-### 3️⃣ **Institutional & Geographic Insights**
-   - 📌 NIH/NSF funding distribution by institution.  
-   - 📌 Top-performing cities and states in research.  
-   - 📌 Age group distribution of award recipients.  
-
-### 4️⃣ **Grant & Patent Relationship**
-   - 📌 Linking grant funding data with patent output.  
-   - 📌 Researcher age vs. award probability.  
-   - 📌 Institutional ranking based on combined metrics.  
-
-### 5️⃣ **University of Illinois Urbana-Champaign (UIUC) Focus**
-   - 📌 UIUC-specific research impact analysis.  
-   - 📌 Demographic trends of UIUC inventors.  
-   - 📌 Patent success trends by gender.  
+📌 **Institutional Rankings**  
+- The **University of Wisconsin, University of California, and University of Michigan** dominate research funding.  
+- Top institutions consistently receive the most grants, reinforcing their status as leaders in innovation.   
 
 ## 🛠️ Technologies Used
 - **📊 Tableau** – For building interactive dashboards.  
